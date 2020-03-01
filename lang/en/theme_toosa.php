@@ -18,7 +18,7 @@
  * Language file.
  *
  * @package   theme_toosa
- * @copyright 2016 Damyon Wiese
+ * @copyright 2020 Prihantoosa & Damyon Wiese
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
