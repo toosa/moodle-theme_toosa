@@ -17,8 +17,8 @@
 /**
  * Photo config.
  *
- * @package   theme_photo
- * @copyright 2016 Damyon Wiese
+ * @package   theme_toosa
+ * @copyright 2020 Prihantoosa & Damyon Wiese
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -29,7 +29,7 @@ defined('MOODLE_INTERNAL') || die();
 
 // The first setting we need is the name of the theme. This should be the last part of the component name, and the same
 // as the directory name for our theme.
-$THEME->name = 'photo';
+$THEME->name = 'toosa';
 
 // This setting list the style sheets we want to include in our theme. Because we want to use SCSS instead of CSS - we won't
 // list any style sheets. If we did we would list the name of a file in the /styles/ folder for our theme without any css file
