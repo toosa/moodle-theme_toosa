@@ -17,9 +17,9 @@
 /**
  * Photo backgrounds.
  *
- * @package    theme_photos
- * @copyright  2016 Damyon Wiese
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @package   theme_toosa
+ * @copyright 2020 Prihantoosa & Damyon Wiese
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 // This line protects the file from being accessed by a URL directly.
